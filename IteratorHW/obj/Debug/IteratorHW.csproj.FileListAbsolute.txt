@@ -1,0 +1,7 @@
+C:\Users\Адиль\Documents\pattern\IteratorHW\bin\Debug\IteratorHW.exe.config
+C:\Users\Адиль\Documents\pattern\IteratorHW\bin\Debug\IteratorHW.exe
+C:\Users\Адиль\Documents\pattern\IteratorHW\bin\Debug\IteratorHW.pdb
+C:\Users\Адиль\Documents\pattern\IteratorHW\obj\Debug\IteratorHW.csprojAssemblyReference.cache
+C:\Users\Адиль\Documents\pattern\IteratorHW\obj\Debug\IteratorHW.csproj.CoreCompileInputs.cache
+C:\Users\Адиль\Documents\pattern\IteratorHW\obj\Debug\IteratorHW.exe
+C:\Users\Адиль\Documents\pattern\IteratorHW\obj\Debug\IteratorHW.pdb
